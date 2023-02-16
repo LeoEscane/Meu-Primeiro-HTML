@@ -1,0 +1,66 @@
+<html>
+
+    <head>
+        <title>MEU PRIMEIRO HTML</title>
+    </head>
+
+    <body>
+
+        <h1>Oii, Eu sou um Titulo na tag "h1"</h1>
+        
+        <hr/>
+
+        <blockquote id="Sumario"><strong>SÚMARIO</strong></blockquote>
+        <ol>
+            <li><a href="#Titulos">Sobre Titulos</a></li>
+            <li><a href="#Paragrafos">Sobre Paragrafos e Tags</a></li>
+            <li><a href="#Imagens">Sobre Imagens</a></li>
+        </ol>
+
+        <hr/>
+
+        <h2 id="Titulos">Sobre Titulos</h2>
+        <a href="#Sumario"><small><sup>Voltar</sup></small></a>
+
+        <p>Existem 6 tags de titulos, com tamanhos diverentes!!</p>
+        <blockquote>Exemplos:</blockquote>
+        <ul>
+            <li><h1>Tag H1</h1></li>
+            <li><h2>Tag H2</h2></li>
+            <li><h3>Tag H3</h3></li>
+            <li><h4>Tag H4</h4></li>
+            <li><h5>Tag H5</h5></li>
+            <li><h6>Tag H6</h6></li>
+        </ul>
+
+        <hr/>
+
+        <h2 id="Paragrafos">Sobre Paragrafos e Tags</h2>
+        <a href="#Sumario"><small><sup>Voltar</sup></small></a>
+
+        <p>Este paragrafo foi aberto com a TAG "P", nele é possivel colocar diversas informações mantendo uma certa formatação</p>
+        <blockquote>Por exemplo:</blockquote>
+        <ul>
+            <li>Podemos colocar o texto em <i>ITALICO</i>, utilizando a tag "i";</li>
+            <li>Podemos colocar o texto em <strong>NEGRITO</strong>, utilizando a tag "strong";</li>
+            <li>Podemos colocar o texto em <u>SUBLINHADO</u>, utilizando a tag "u";</li>
+            <li>Podemos <mark>MARCAR</mark> o que quisermos com a tag "mark";</li>
+            <li>Podemos demarcar <del>CORREÇõES</del> de textos utilizando a tag "del"</li>
+            <li>Posso tambem colocar alguma chamada para sitação, tipo isso >> <sup>Olha eu aqui!!</sup></li>
+            <li>Posso deixar um texto <small>PEQUENO</small> tambem;</li>
+            <li>E obviamente uma <u><strong><i><mark>MISTURA</mark></i></strong></u> de tudo isso e muito mais..</li>
+        </ul>
+
+        <blockquote><h3>Da uma olhada nesse <a href="https://www.w3schools.com/" title="W3Schools" target="_blank"><strong>SITE</strong></a> depois para pegar mais exemplos!!</h3></blockquote>
+        
+        <hr/>
+        
+        <h2 id="Imagens">Sobre Imagens</h2>
+        <a href="#Sumario"><small><sup>Voltar</sup></small></a>
+
+        <p>Temos tambem imagens que podem ser colocadas no site utilizando a tag "img"</p>
+
+        <img width="300" src="https://i.pinimg.com/originals/39/6d/de/396dde3f92a990af382b44198063a444.jpg" alt="">
+          
+    </body>
+</html>
